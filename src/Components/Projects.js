@@ -48,9 +48,9 @@ function Projects() {
             <Container fluid className="d-flex align-items-center justify-content-center mt-4"><h3>PROJECTS</h3></Container>
             <Container fluid  className="d-flex align-items-start justify-content-around flex-wrap">
                 {cardsData.map( (data,index) => (
-                    <Card key={data.title}  id={`body${index}`} ref={addToRefs} style={{width:"450px",height:300}} className="m-4">
+                    <Card key={data.title}  id={`body${index}`} ref={addToRefs} style={{width:"450px",minHeight:"310px"}} className="m-4">
                         <Card.Header as="h4" className="d-flex justify-content-between align-items-center"><div className="mr-1" class="heading">{data.title}</div><a href={data.site} target="_blank"><img src={openLink} alt="open link"/></a></Card.Header>
-                        <Card.Body  id={`cardbody${index}`} style={{height:400}} className="d-flex justify-content-around flex-column">
+                        <Card.Body  id={`cardbody${index}`} className="d-flex justify-content-around flex-column">
                             <Card.Text class="cardtext" style={{fontSize:13,maxWidth:300}} className = "mt-2">{data.content}</Card.Text>
                             <Container fluid className="d-flex flex-wrap pt-2 pl-0 pr-0">
                                 {data.badges.map(badge => 
