@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.cf3e7fa8.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.913c79cc.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.913c79cc.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.dc04098e.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.dc04098e.js.map",
+    "static/css/2.150d169a.chunk.css": "/react-gh-pages/static/css/2.150d169a.chunk.css",
+    "static/js/2.8dd01a3c.chunk.js": "/react-gh-pages/static/js/2.8dd01a3c.chunk.js",
+    "static/js/2.8dd01a3c.chunk.js.map": "/react-gh-pages/static/js/2.8dd01a3c.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/react-gh-pages/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.cf3e7fa8.chunk.css.map": "/react-gh-pages/static/css/main.cf3e7fa8.chunk.css.map",
+    "static/js/2.8dd01a3c.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.8dd01a3c.chunk.js.LICENSE.txt",
+    "static/media/Rectangle.bfd9185c.svg": "/react-gh-pages/static/media/Rectangle.bfd9185c.svg",
+    "static/media/csslogo.6deaea30.png": "/react-gh-pages/static/media/csslogo.6deaea30.png",
+    "static/media/figmalogo.06c7ef15.svg": "/react-gh-pages/static/media/figmalogo.06c7ef15.svg",
+    "static/media/githublogo.2475f125.svg": "/react-gh-pages/static/media/githublogo.2475f125.svg",
+    "static/media/gmaillogo.84708bb6.svg": "/react-gh-pages/static/media/gmaillogo.84708bb6.svg",
+    "static/media/hoops.53e45d86.svg": "/react-gh-pages/static/media/hoops.53e45d86.svg",
+    "static/media/htmllogo.02184d80.svg": "/react-gh-pages/static/media/htmllogo.02184d80.svg",
+    "static/media/javascriptlogo.ba40d6a9.svg": "/react-gh-pages/static/media/javascriptlogo.ba40d6a9.svg",
+    "static/media/linkedinlogo.1f3d78ca.svg": "/react-gh-pages/static/media/linkedinlogo.1f3d78ca.svg",
+    "static/media/openLink.e97f8423.svg": "/react-gh-pages/static/media/openLink.e97f8423.svg",
+    "static/media/profile.acd8620b.png": "/react-gh-pages/static/media/profile.acd8620b.png",
+    "static/media/reactlogo.ae626225.svg": "/react-gh-pages/static/media/reactlogo.ae626225.svg",
+    "static/media/screen2.62dd4b21.svg": "/react-gh-pages/static/media/screen2.62dd4b21.svg",
+    "static/media/scrollimg.1bd9dfe7.svg": "/react-gh-pages/static/media/scrollimg.1bd9dfe7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc04098e.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.8dd01a3c.chunk.js",
+    "static/css/main.cf3e7fa8.chunk.css",
+    "static/js/main.913c79cc.chunk.js"
+  ]
+}
