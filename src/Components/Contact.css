@@ -1,0 +1,7 @@
+.contactlink{
+    color:rgb(0, 0, 0) !important;
+}
+.contactlink:hover{
+    color:#FCA311 !important;
+    text-decoration: none;
+}

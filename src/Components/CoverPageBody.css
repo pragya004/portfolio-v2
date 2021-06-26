@@ -1,0 +1,55 @@
+.scrollbutton:hover{
+    cursor: pointer;
+}
+.helloButton {
+    margin-top:2rem;
+}
+
+@media only screen and (max-width: 700px) {
+
+    #about{
+        display:none;
+    }
+    #leftContainer{
+        justify-content: center !important;
+        width:100px !important;
+        min-height: 30vh !important;
+        height:40px !important;
+        background-color: transparent !important;
+        margin-top: 0rem !important;
+    }
+    #pic{
+        width:100px !important;
+        height:100px !important;
+    }
+    #button1{
+        margin-top: 0px !important;
+    }
+    #aboutbottom{
+        display:block !important;
+        width:80vw;
+        margin-left: 1rem;
+        margin-top:3rem;
+    }
+    #scrollbutton{
+        height:50px !important;
+        width:50px !important;
+    }
+    .skills > ul > *{
+        padding:0.5rem;
+        font-size: 14px;
+    }
+    .skills > ul >li:last-child > img {
+        margin-left: 5px;
+        width: 20px;
+        padding-right: 3px;
+    }
+    .helloButton {
+        padding:8px !important;
+        font-size: 13px !important;
+        background-color: rgb(75, 75, 75)!important;
+        color: white !important ;
+        margin-bottom: 0 !important;
+        margin-top: 2rem !important;
+    }
+  }

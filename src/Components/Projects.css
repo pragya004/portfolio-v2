@@ -1,0 +1,77 @@
+@media only screen and (max-width: 700px) {
+
+    #body0{
+        height:unset !important;
+    }
+    #body1{
+        height:unset !important;
+    }
+    #body2{
+        height:unset !important;
+    }
+    #body3{
+        height:unset !important;
+    }
+    #body4{
+        height:unset !important;
+    }
+    #body5{
+        height:unset !important;
+    }
+    #body6{
+        height:unset !important;
+    }
+    #body7{
+        height:unset !important;
+    }
+    #body8{
+        height:unset !important;
+    }
+    #body9{
+        height:unset !important;
+    }
+    .heading{
+        font-size:17px !important;
+    }
+    .cardtext{
+        font-size:13px !important;
+    }
+    #cardbody0{
+        height:unset !important;
+    }
+    #cardbody1{
+        height:unset !important;
+    }
+    #cardbody2{
+        height:unset !important;
+    }
+    #cardbody3{
+        height:unset !important;
+    }
+    #cardbody4{
+        height:unset !important;
+    }
+    #cardbody5{
+        height:unset !important;
+    }
+    #cardbody6{
+        height:unset !important;
+    }
+    #cardbody7{
+        height:unset !important;
+    }
+    #cardbody8{
+        height:unset !important;
+    }
+    #cardbody9{
+        height:unset !important;
+    }
+    span.border.border-dark.pl-3.pr-3.pt-2.pb-2.mb-3.mr-2.badge.badge-pill{
+        font-size: 13px;
+        padding-top: 7px !important;
+        padding-bottom: 7px !important;
+        padding-left:14px !important;
+        padding-right:14px !important;
+        margin-bottom:10px !important;
+    }
+  }
